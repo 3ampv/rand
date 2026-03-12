@@ -3,7 +3,7 @@
    local centerPosition = Vector3.new(0, 100, 0)
 local chestPosition  = Vector3.new(15, -5, 9495)
 
- local respawnWait = 6
+ local respawnWait = 61
     local Players          = game:GetService("Players")
   local RunService       = game:GetService("RunService")
   local TweenService     = game:GetService("TweenService")
